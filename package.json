@@ -1,6 +1,6 @@
 {
 	"name": "clean-stack--tmp-fork-by-jblew-with-browser-support",
-	"version": "2.1.0",
+	"version": "2.1.1",
 	"description": "Clean up error stack traces",
 	"license": "MIT",
 	"repository": "sindresorhus/clean-stack",
